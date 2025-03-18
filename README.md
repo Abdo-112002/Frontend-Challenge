@@ -24,9 +24,6 @@ Welcome to the Frontend Challenge! This challenge is designed to assess your abi
 #### Products Page:
 - Display a table of products with the following columns of the API docs:
 - Actions (**Edit, Delete, View Details**)
-- Add **pagination** to the table.
-- Add **filtering** by:
-  - Price (**min, max**)
 - Add **search functionality** by product name.
 - Add **hover effects** and interactive elements to make the table engaging.
 
