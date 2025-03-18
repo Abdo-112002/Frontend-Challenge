@@ -65,8 +65,6 @@ Since this is a frontend-only challenge, you can mock the API endpoints using fa
 - ✅ Use **GitHub branches** for different features.
 
 ## ⏳ Time Limit
-This challenge should take around **2 days** to complete. If you need an extension, feel free to reach out.
----
+This challenge is estimated to take about **6 hours** of actual work, but you have **2 days** to complete and submit it. If you need additional time, feel free to contact us.
 
-🎉 **Good luck! We can't wait to see what you build!** 🚀
-
+**🚀 Best of luck! We're excited to see your amazing work! 🎉**
